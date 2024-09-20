@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Språk/language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerEryigit7"/>
+# OmerEryigit7
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerEryigit7&show_icons=true&theme=radical)
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerEryigit7&layout=compact&theme=radical)
